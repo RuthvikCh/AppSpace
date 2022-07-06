@@ -1,0 +1,44 @@
+.container{
+        margin: auto;
+        margin-top: 18px;
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+        border-radius: 8px;
+        padding: 16px;
+        background-color: rgba(238, 223, 223, 0.045);
+
+}
+.catall{
+        display: flex;
+        flex-wrap: wrap;
+        margin: 2rem;
+        justify-content: space-between;
+}
+.catbox{
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+        min-height: 15vh;
+        width: 24vw;
+        border-radius: 8px;
+        margin: 2rem 0rem;
+        text-align: center;
+        padding: 1.4rem;
+        background-color: rgb(244, 247, 255);
+}
+.catbox:hover {
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+        min-height: 15vh;
+        width: 24vw;
+        border-radius: 8px;
+        margin: 2rem 0rem;
+        text-align: center;
+        padding: 1.2rem;
+        font-size: 3vh;
+        transition: .2s;
+        color: black;
+}
+.catbox .head{
+        font-size: 4.2vh;
+}
+ a{
+        text-decoration: none;
+        color: black;
+}

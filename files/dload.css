@@ -1,0 +1,60 @@
+
+.dloadcontainer{
+        width: 66%;
+        margin: auto;
+        
+}
+.appbox{
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+        margin: 10px;
+        border-radius: 8px;
+        padding: 16px;
+}
+.top{
+        display: flex;
+        
+}
+.left img{
+        width: 130px;
+        height: 130px;
+        border-radius: 18px;
+
+}
+.right{
+        padding: 0px;
+        padding-left:18px ;
+}
+.right .name{
+        font-size: 2rem;
+        font-weight: 500;
+        font-family: GoogleSans;
+
+}
+
+.bottom{
+       margin-top: 12px;
+}
+.bottom a{
+        width: 30%;
+        margin: 5px 15px;
+        font-family: GoogleSans;
+        
+}
+
+.appinfobox{
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+        margin: 10px;
+        margin-top: 18px;
+        border-radius: 8px;
+        padding: 16px;
+}
+.tablet{
+        box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+        padding: 2px 20px;
+        border-radius: 12px;
+}
+.table{
+        margin-top: 14px;
+        border-radius: 8px !important;
+        text-align: center;
+}
